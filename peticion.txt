@@ -1,2 +1,1 @@
-Acá la petición está leyendo un formato .txt
-Como pueden ver se lee igual que otro archivo de carga. 
+Acá la petición está leyendo un formato .txt - Como pueden ver se lee igual que otro archivo de carga. 
